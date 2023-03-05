@@ -14,3 +14,7 @@
 сейчас будем пушить!
 
 сейчас будем пуллить
+
+https://github.com/savchenko1971
+
+Я делал pull request на Timurlslamgulov/DZ3. Но после push кнопки Compare&pull request не было.
